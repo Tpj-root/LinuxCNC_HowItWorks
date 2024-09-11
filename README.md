@@ -169,9 +169,7 @@ sudo pip install pyserial
 
 - [Study]https://forums.raspberrypi.com/viewtopic.php?t=341546
 
-- [Parallel Port Raspberry Pi Hat](https://byte2bot.com/products/parallel-port-raspberry-pi-hat)
 
-- [Using LinuxCNC on My CNC Router Using a Raspberry Pi 5](https://www.youtube.com/watch?v=8MW4Zqvn3H8)
 
 - [Machinekit_google_group](https://groups.google.com/g/machinekit)
 
@@ -193,7 +191,9 @@ https://raw.githubusercontent.com/ChrisWag91/PI-LCNC/master/Graphics/F013_PI-LCN
 
 
 
-wheretobuy:[https://byte2bot.com/products/parallel-port-raspberry-pi-hat](https://byte2bot.com/products/parallel-port-raspberry-pi-hat#)
+## byte2bot.com
+
+wheretobuy:[https://byte2bot.com/products/parallel-port-raspberry-pi-hat](https://byte2bot.com/products/parallel-port-raspberry-pi-hat)
 
 
 https://byte2bot.com/blogs/instructions/setting-up-a-raspberry-pi
@@ -201,7 +201,7 @@ https://byte2bot.com/products/cnc-serial-raspberry-pi-hat
 https://byte2bot.com/products/parallel-port-raspberry-pi-hat
 https://byte2bot.com/products/5-axis-cnc-interface-adapter-parallel-breakout-board-for-stepper-motor-drivers
 
-
+- [Using LinuxCNC on My CNC Router Using a Raspberry Pi 5](https://www.youtube.com/watch?v=8MW4Zqvn3H8)
 
 
 
