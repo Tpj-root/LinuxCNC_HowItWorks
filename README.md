@@ -173,8 +173,6 @@ sudo pip install pyserial
 
 - [Machinekit_google_group](https://groups.google.com/g/machinekit)
 
-
-
 - pi-parport[https://github.com/worlickwerx/pi-parport](https://github.com/worlickwerx/pi-parport)
 
 - Scematics_PCB_CAD_Config
@@ -201,7 +199,7 @@ https://byte2bot.com/products/cnc-serial-raspberry-pi-hat
 https://byte2bot.com/products/parallel-port-raspberry-pi-hat
 https://byte2bot.com/products/5-axis-cnc-interface-adapter-parallel-breakout-board-for-stepper-motor-drivers
 
-- [Using LinuxCNC on My CNC Router Using a Raspberry Pi 5](https://www.youtube.com/watch?v=8MW4Zqvn3H8)
+- [Using LinuxCNC on My CNC Router Using a Raspberry Pi 5 VIDEO](https://www.youtube.com/watch?v=8MW4Zqvn3H8)
 
 
 
