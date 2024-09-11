@@ -157,6 +157,25 @@ sudo pip install pyserial
 
 - reference:
 
+
+**raspberrypi_Parallel_Port**
+
+
+- [How to make your own hat](https://github.com/raspberrypi/hats)
+
+- [LinuxCNC-on-RPi](https://scottalford75.github.io/LinuxCNC-on-RPi/)
+
+- LinuxCNC-on-RPi_Git : [https://github.com/scottalford75/LinuxCNC-on-RPi](https://github.com/scottalford75/LinuxCNC-on-RPi)
+
+- [Study]https://forums.raspberrypi.com/viewtopic.php?t=341546
+
+- [Parallel Port Raspberry Pi Hat](https://byte2bot.com/products/parallel-port-raspberry-pi-hat)
+
+- [Using LinuxCNC on My CNC Router Using a Raspberry Pi 5](https://www.youtube.com/watch?v=8MW4Zqvn3H8)
+
+- [Machinekit_google_group](https://groups.google.com/g/machinekit)
+
+
 **-----------------------------------------------------**
 
 ### ESP32 with W5500 modules.
