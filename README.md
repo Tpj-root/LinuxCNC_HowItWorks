@@ -32,7 +32,7 @@
 - External step generator and IO interface for LinuxCNC over Ethernet with dual-core ESP32 and W5500 modules.
 - The hardware is connected to LinuxCNC over Ethernet. The controller operates in position mode at low speed and at higher speeds in velocity mode.
 
-reference:
+**reference:**
 
 - [HAL2UDP](https://github.com/jzolee/HAL2UDP)
 
@@ -41,13 +41,13 @@ reference:
 - [Test](https://www.youtube.com/watch?v=UXWcg7PwRJs&ab_channel=jzolee)
 
 
-esp32-pinout:
+**esp32-pinout:**
 
-[SITE](https://www.electronicshub.org/esp32-pinout/)
+- [SITE](https://www.electronicshub.org/esp32-pinout/)
 
-[ESP-WROOM-32-Pinout](https://www.electronicshub.org/wp-content/uploads/2021/02/ESP-WROOM-32-Pinout.jpg)
+- [ESP-WROOM-32-Pinout](https://www.electronicshub.org/wp-content/uploads/2021/02/ESP-WROOM-32-Pinout.jpg)
 
-[ESP32-Pinout](https://www.electronicshub.org/wp-content/uploads/2021/02/ESP32-Pinout-1.jpg)
+- [ESP32-Pinout](https://www.electronicshub.org/wp-content/uploads/2021/02/ESP32-Pinout-1.jpg)
 
 
 
