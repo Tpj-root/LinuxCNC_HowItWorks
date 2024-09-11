@@ -27,6 +27,7 @@
 
 - reference:
 
+**-----------------------------------------------------**
 
 ### ESP32 with W5500 modules.
 - External step generator and IO interface for LinuxCNC over Ethernet with dual-core ESP32 and W5500 modules.
@@ -49,7 +50,7 @@
 
 - [ESP32-Pinout](https://www.electronicshub.org/wp-content/uploads/2021/02/ESP32-Pinout-1.jpg)
 
-
+**-----------------------------------------------------**
 
 
 
