@@ -223,8 +223,9 @@ Haven't tried it yet.
 
 - [Source_Code_GitURL](https://github.com/ryba-xek/linuxcnx-esp32-idf)
 
-https://www.youtube.com/watch?v=vPD6x1c9KEo
-https://www.facebook.com/engautomationone/
+- [Y_video](https://www.youtube.com/watch?v=vPD6x1c9KEo)
+
+- [WhoIsCreator](https://www.facebook.com/engautomationone/)
 
 
 **------------**
