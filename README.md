@@ -31,9 +31,13 @@
 - The hardware is connected to LinuxCNC over Ethernet. The controller operates in position mode at low speed and at higher speeds in velocity mode.
 
 
+### This site was built using 
+[HAL2UDP](https://github.com/jzolee/HAL2UDP).
 
-### Note:
-- Each option has its own configuration needs within LinuxCNC’s INI and HAL files.
 
+
+
+> [!NOTE]
+> Each option has its own configuration needs within LinuxCNC’s INI and HAL files.
 
 
