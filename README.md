@@ -1,11 +1,11 @@
 # LinuxCNC_HowItWorks
 
 
-1. LinuxCNC Overview:
+**1. LinuxCNC Overview:**
 
-- LinuxCNC is open-source software for controlling CNC machines.
-- It runs on Linux with a real-time kernel for precise motor control.
-- Commonly used for milling machines, lathes, 3D printers, and robotics.
+    - LinuxCNC is open-source software for controlling CNC machines.
+    - It runs on Linux with a real-time kernel for precise motor control.
+    - Commonly used for milling machines, lathes, 3D printers, and robotics.
 
 2. CNC Machine Components:
 
