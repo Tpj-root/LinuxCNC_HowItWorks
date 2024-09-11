@@ -102,6 +102,7 @@
 
 **------------**
 **ArduinoConnector**
+
 I have tried it.
 **------------**
 
@@ -111,6 +112,7 @@ I have tried it.
 
 
 [Source_code_git](https://github.com/AlexmagToast/LinuxCNC_ArduinoConnector)
+
 [Build_video](https://www.youtube.com/playlist?list=PLdrOU2f3sjtApTdxhmAiXL4lET_ZnntGc)
 
 [Install_tips](https://github.com/AlexmagToast/LinuxCNC_ArduinoConnector/tree/main?tab=readme-ov-file#installation)
@@ -164,8 +166,11 @@ sudo pip install pyserial
 - The hardware is connected to LinuxCNC over Ethernet. The controller operates in position mode at low speed and at higher speeds in velocity mode.
 
 **------------**
+
 **First Method**
+
 I have tried it.
+
 **------------**
 
 **reference:**
