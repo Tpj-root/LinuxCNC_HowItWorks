@@ -88,7 +88,7 @@
     - [LINUXCNC_ISO_LIST](https://www.linuxcnc.org/iso/)
     
 
-**17. LinuxCNC install for Debian 12.5 - Bookworm and Debian 13 Trixie **
+**17. LinuxCNC install for Debian 12.5 Bookworm and Debian 13 Trixie**
 
     - [Source](https://forum.linuxcnc.org/9-installing-linuxcnc/51255-latest-official-linuxcnc-iso?start=30)
     - [Tips_for_linuxcnc_install](https://docs.google.com/document/d/1jeV_4VKzVmOIzbB-ytcgsW2I_PhCm1x7oiw8VcLFdiY/edit#heading=h.tfgqketn1slo)
