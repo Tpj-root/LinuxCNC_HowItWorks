@@ -176,6 +176,35 @@ sudo pip install pyserial
 - [Machinekit_google_group](https://groups.google.com/g/machinekit)
 
 
+
+- pi-parport[https://github.com/worlickwerx/pi-parport](https://github.com/worlickwerx/pi-parport)
+
+- Scematics_PCB_CAD_Config
+
+- [whoismake](https://github.com/ChrisWag91)
+
+- [https://github.com/ChrisWag91/rpi_level_shifter_hat](https://github.com/ChrisWag91/rpi_level_shifter_hat)
+- [https://github.com/ChrisWag91/PI-LCNC](https://github.com/ChrisWag91/PI-LCNC)
+
+
+https://raw.githubusercontent.com/ChrisWag91/PI-LCNC/master/Graphics/F013_PI-LCNC_Concept.png
+
+[LinuxCNC on Raspberry Pi: How to Make It Work](https://all3dp.com/2/linuxcnc-raspberry-pi-tutorial/)
+
+
+
+wheretobuy:[https://byte2bot.com/products/parallel-port-raspberry-pi-hat](https://byte2bot.com/products/parallel-port-raspberry-pi-hat#)
+
+
+https://byte2bot.com/blogs/instructions/setting-up-a-raspberry-pi
+https://byte2bot.com/products/cnc-serial-raspberry-pi-hat
+https://byte2bot.com/products/parallel-port-raspberry-pi-hat
+https://byte2bot.com/products/5-axis-cnc-interface-adapter-parallel-breakout-board-for-stepper-motor-drivers
+
+
+
+
+
 **-----------------------------------------------------**
 
 ### ESP32 with W5500 modules.
