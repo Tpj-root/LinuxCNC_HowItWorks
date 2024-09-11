@@ -101,7 +101,6 @@
 
 **------------**
 **ArduinoConnector**
-
 I have tried it.
 **------------**
 
@@ -165,11 +164,8 @@ sudo pip install pyserial
 - The hardware is connected to LinuxCNC over Ethernet. The controller operates in position mode at low speed and at higher speeds in velocity mode.
 
 **------------**
-
 **First Method**
-
 I have tried it.
-
 **------------**
 
 **reference:**
