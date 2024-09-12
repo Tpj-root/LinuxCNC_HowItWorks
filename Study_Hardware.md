@@ -1,11 +1,11 @@
-[www.waveshare.com](www.waveshare.com)
+# [www.waveshare.com](www.waveshare.com)
 
 Waveshare is an electronics company offering a wide range of development boards, modules, displays, sensors, and accessories for hobbyists and professionals. 
 They specialize in components for microcontroller projects (such as Raspberry Pi, Arduino, and ESP32), robotics, and IoT applications. 
 Waveshare provides product documentation, tutorials, and tools for integrating their hardware into various projects.
 
 
-[MAIN_PAGE](https://www.waveshare.com/wiki/Main_Page)
+## [MAIN_PAGE](https://www.waveshare.com/wiki/Main_Page)
 
 
 Waveshare offers over 50+ HAT (Hardware Attached on Top) projects, each with fully detailed documentation, including schematics. 
@@ -245,7 +245,7 @@ https://code.google.com/archive/p/arducam-arduino-camera/wikis/Hardware.wiki
 
 
 
-Pending
+Last_view
 https://github.com/search?q=pi+hat&type=repositories&p=21
 
 
