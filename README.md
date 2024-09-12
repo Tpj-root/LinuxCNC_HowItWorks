@@ -222,6 +222,8 @@ I have tried it.
 
 - [Source_Test](https://www.youtube.com/watch?v=UXWcg7PwRJs)
 
+- [platformio](https://docs.platformio.org/en/latest/librarymanager/ldf.html)
+
 - [Source: Tested myself]()
 
 **esp32-pinout:**
