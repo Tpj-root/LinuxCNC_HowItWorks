@@ -74,24 +74,6 @@ Linuxcnc
 
 
 
-**`trigger_[CH2].png:`**
-
-![trigger_[CH2].png](png/HOTRC_CT_8A_2.4G/trigger_[CH2].png)
-
-
-**`Linearity_ESCSetup_servos:`**
-
-![Linearity_ESCSetup_servos](png/HOTRC_CT_8A_2.4G/Linearity_ESCSetup_servos.png)
-
-
-**`Button_A_B_C_D:`**
-
-![Button_A_B_C_D](png/HOTRC_CT_8A_2.4G/Button_A_B_C_D.gif)
-
-
-
-
-
 
 Coding method one:
 
@@ -128,6 +110,29 @@ Coding method two:
 
 
 
+
+
+
+
+
+
+
+**`trigger_[CH2].png:`**
+
+![trigger_[CH2].png](png/HOTRC_CT_8A_2.4G/trigger_[CH2].png)
+
+
+**`Linearity_ESCSetup_servos:`**
+
+![Linearity_ESCSetup_servos](png/HOTRC_CT_8A_2.4G/Linearity_ESCSetup_servos.png)
+
+
+**`Button_A_B_C_D:`**
+
+![Button_A_B_C_D](png/HOTRC_CT_8A_2.4G/Button_A_B_C_D.gif)
+
+
+
 ## Turn off the receiver first, then turn off the transmitter.
 
 **`Tips:`**
@@ -135,22 +140,18 @@ Coding method two:
 ![Tips](png/HOTRC_CT_8A_2.4G/Tips.gif)
 
 
-
-
-
-
-
-
+https://hackmd.io/@prooma/HyCKuGmGa
 
 
 
 
 Power switch: long press to turn on and off, short press to return.
-Scroll key: Scroll up and down to select, short press to confirm; press and hold to pause during timing, and press and hold again to clear timing.
 
 
+Scroll key: Scroll up and down to select, short press to confirm; 
 
-
+Scroll key : Stopwatch: (system menu (5) --- > timer (3) --- > state (ON))
+press and hold to pause during timing, and press and hold again to clear timing.
 
     
     
