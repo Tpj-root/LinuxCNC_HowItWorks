@@ -94,7 +94,7 @@ Linuxcnc
 
 **`Receiver_parameters:`**
 
-![ Receiver_parameters](png/HOTRC_CT_8A_2.4G/ Receiver_parameters.png)
+![Receiver_parameters](png/HOTRC_CT_8A_2.4G/Receiver_parameters.png)
 
 
 
