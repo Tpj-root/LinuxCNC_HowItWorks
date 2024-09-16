@@ -80,7 +80,7 @@ Linuxcnc
 
 **`HOTRC CT-8A 2.4G:`**
 
-![HOTRC CT-8A 2.4G.](png/HOTRC_CT_8A_2.4G/HOTRC CT-8A 2.4G.png)
+![HOTRC CT-8A 2.4G](png/HOTRC_CT_8A_2.4G/HOTRC_CT-8A_2.4G.png)
 
 
 
