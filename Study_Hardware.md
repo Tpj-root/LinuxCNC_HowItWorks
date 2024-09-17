@@ -141,8 +141,23 @@ https://github.com/headblockhead/ruler
 
 
 
+https://www.adafruit.com/product/1492
+https://www.adafruit.com/product/1436
+to 
+last
+https://www.adafruit.com/product/6008
 
 https://github.com/adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB
+https://github.com/adafruit/Adafruit-FPC-SMT-Adapter-PCBs
+https://github.com/adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB
+https://github.com/adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB
+https://github.com/adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB
+
+
+get the all product image 
+
+https://cdn-shop.adafruit.com/230x173/6006-01.jpg
+https://cdn-shop.adafruit.com/230x173/6006-02.jpg
 
 
 
