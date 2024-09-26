@@ -36,7 +36,27 @@ https://github.com/multigcs/LinuxCNC-RIO
 #
 ```
 git clone "https://github.com/multigcs/riocore.git"
+
+
+python3 -m venv linuxRio
+source linuxRio/bin/activate
 ```
+
+
+##  Install Dependencies from requirements.txt
+
+```
+pip install -r requirements.txt 
+pip install -r requirements-dev.txt
+```
+
+
+
+## RUN
+```
+PYTHONPATH=. bin/rio-setup
+```
+
 
 
 
@@ -63,7 +83,6 @@ git clone "https://github.com/multigcs/riocore.git"
 # PINOUT
 
 
-
 <p align="center">
   <img src="png/EP2C5T144/T.png" width="250" height="200">
 </p>
@@ -82,6 +101,24 @@ git clone "https://github.com/multigcs/riocore.git"
 
 
 
+## Flow <a name = "flow"></a>
+```mermaid
+graph LR;
+    BOARD.JSON--rio-setup-->CONFIG.JSON;
+    CONFIG.JSON--rio-generator-->/Output;
+    /Output-->/Gateware;
+    /Gateware-->Makefile;
+    /Gateware-->verilog-files;
+    /Gateware-->pins.*;
+    Makefile--make-->Bitfile;
+    Bitfile--make load-->FPGA;
+    /Output-->/LinuxCNC;
+    /LinuxCNC-->rio.c;
+    /LinuxCNC-->rio.ini
+    /LinuxCNC-->rio-gui.xml
+    /LinuxCNC-->*.hal;
+    rio.c--halcompile-->hal-component;
+```
 
 
 
