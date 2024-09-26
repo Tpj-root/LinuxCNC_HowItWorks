@@ -64,20 +64,19 @@ git clone "https://github.com/multigcs/riocore.git"
 
 
 
-
-**`EP2C5T144 :`**
-
-<img align="left" width="200" height="200" src="png/EP2C5T144/L.png">
 <p align="center">
-  <img width="460" height="300" src="png/EP2C5T144/EP2C5T144.jpg">
+  <img src="png/EP2C5T144/T.png" width="200" height="200">
 </p>
 
-<img align="right" width="200" height="200" src="png/EP2C5T144/R.png">
+<p align="center">
+  <img src="png/EP2C5T144/L.png" width="200" height="200">
+  <img src="png/EP2C5T144/EP2C5T144.png" width="300" height="300">
+  <img src="png/EP2C5T144/R.png" width="200" height="200">
+</p>
 
-
-
-
-
+<p align="center">
+  <img src="png/EP2C5T144/D.png" width="200" height="200">
+</p>
 
 
 
