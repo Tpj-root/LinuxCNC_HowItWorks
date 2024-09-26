@@ -47,19 +47,20 @@ git clone "https://github.com/multigcs/riocore.git"
 
 **`push_button :`**
 
-![push_button](png/EP2C5T144/push_button.png)
+<p align="center">
+  <img width="200" height="200" src="png/EP2C5T144/push_button.png">
+</p>
 
 
 **`led :`**
 
-![led](png/EP2C5T144/led.png)
-
-
+<p align="center">
+  <img width="200" height="200" src="png/EP2C5T144/led.png">
+</p>
 
 
 
 # PINOUT
-
 
 
 
