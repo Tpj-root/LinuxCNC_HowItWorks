@@ -13,3 +13,11 @@ convert +append *.png joined.png
 convert -delay 20 *.png output.gif
 
 
+
+
+
+# A fast, highly customizable system info script
+
+neofetch --ascii
+
+
