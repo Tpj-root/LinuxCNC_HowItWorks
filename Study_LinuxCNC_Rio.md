@@ -61,23 +61,19 @@ git clone "https://github.com/multigcs/riocore.git"
 # PINOUT
 
 
-**`L :`**
-
-![L](png/EP2C5T144/L.png)
 
 
 
 **`EP2C5T144 :`**
+
+<img align="left" width="200" height="200" src="png/EP2C5T144/L.png">
 <p align="center">
   <img width="460" height="300" src="png/EP2C5T144/EP2C5T144.jpg">
 </p>
 
+<img align="right" width="200" height="200" src="png/EP2C5T144/R.png">
 
 
-
-**`R :`**
-
-![R](png/EP2C5T144/R.png)
 
 
 
