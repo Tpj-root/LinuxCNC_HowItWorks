@@ -69,9 +69,9 @@ git clone "https://github.com/multigcs/riocore.git"
 </p>
 
 <p align="center">
-  <img src="png/EP2C5T144/L.png" width="200" height="200">
+  <img src="png/EP2C5T144/L.png" width="200" height="250">
   <img src="png/EP2C5T144/EP2C5T144.jpg" width="300" height="300">
-  <img src="png/EP2C5T144/R.png" width="200" height="200">
+  <img src="png/EP2C5T144/R.png" width="200" height="250">
 </p>
 
 <p align="center">
