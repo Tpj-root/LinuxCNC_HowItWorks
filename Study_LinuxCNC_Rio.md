@@ -65,7 +65,7 @@ git clone "https://github.com/multigcs/riocore.git"
 
 
 <p align="center">
-  <img src="png/EP2C5T144/T.png" width="200" height="200">
+  <img src="png/EP2C5T144/T.png" width="250" height="200">
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ git clone "https://github.com/multigcs/riocore.git"
 </p>
 
 <p align="center">
-  <img src="png/EP2C5T144/D.png" width="200" height="200">
+  <img src="png/EP2C5T144/D.png" width="250" height="200">
 </p>
 
 
