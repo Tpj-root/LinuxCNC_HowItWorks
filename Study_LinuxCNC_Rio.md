@@ -68,8 +68,10 @@ git clone "https://github.com/multigcs/riocore.git"
 
 
 **`EP2C5T144 :`**
+<p align="center">
+  <img width="460" height="300" src="png/EP2C5T144/EP2C5T144.jpg">
+</p>
 
-![EP2C5T144](png/EP2C5T144/EP2C5T144.jpg)
 
 
 
