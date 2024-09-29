@@ -24,7 +24,10 @@ sha1sum Quartus-web-13.0.1.232-linux.tar
 https://www.youtube.com/watch?v=o29SnVsLhOs
 
 https://www.youtube.com/watch?v=vmraRVxKYss
+https://www.youtube.com/watch?v=le6Jo5DpLao&ab_channel=TreyDahlberg
 
+https://digilogicelectronica.wordpress.com/2016/07/15/altera-cyclone-ii-ep2c5t144-fpga/
+https://digilogicelectronica.wordpress.com/2016/06/02/placa-de-desarrollo-fpga-ep1c3t144/
 
 
 ## How to install LinuxCNC-RIO
@@ -40,12 +43,14 @@ git clone "https://github.com/multigcs/riocore.git"
 
 python3 -m venv linuxRio
 source linuxRio/bin/activate
+
 ```
 
 
 ##  Install Dependencies from requirements.txt
 
 ```
+cd riocore
 pip install -r requirements.txt 
 pip install -r requirements-dev.txt
 ```
@@ -54,16 +59,96 @@ pip install -r requirements-dev.txt
 
 ## RUN
 ```
+export PATH=$PATH:/home/sab/altera/13.0sp1/quartus/bin
 PYTHONPATH=. bin/rio-setup
 ```
 
 
+then ---> select no:8 [EP2C5T144]
+     ---> Load existing config  --> goto configs folder open [EP2C5T144]  ---> then select config.json
+     
+     
 
+
+
+
+
+## SOF (SRAM Object File)
+
+   - Purpose: Used for temporary configuration of FPGAs.
+   - Storage: Designed to be loaded into the FPGA's SRAM on power-up or via JTAG.
+   - Volatility: Configuration is lost when power is turned off.
+   - Usage: Typically used during development and testing.
+
+## POF (Programming Object File)
+
+   - Purpose: Used for permanent configuration of FPGAs.
+   - Storage: Can be stored in non-volatile memory (like flash) for long-term retention.
+   - Volatility: Configuration persists after power is turned off.
+   - Usage: Commonly used for final production configurations.
+
+
+
+
+
+
+
+
+
+--------------
+Check Available Cables: Before running the command, check which programming cables are available:
+
+1) USB-Blaster variant [1-7]
+
+
+/home/sab/altera/13.0sp1/quartus/bin/quartus_pgm -l
+
+--------------
+
+problem with permissions
+
+/home/sab/altera/13.0sp1/quartus/bin/jtagconfig
+1) USB-Blaster variant [1-7]
+  Unable to lock chain (Insufficient port permissions)
+
+
+try lsusb ---?? Bus 001 Device 009: ID 09fb:6001 Altera Blaster
+
+
+sudo usermod -aG dialout $USER
+sudo chmod 666 /dev/bus/usb/001/009  # Replace with your actual device path
+
+
+----------------------------
+
+
+# not support Cyclone II
+
+https://trabucayre.github.io/openFPGALoader/compatibility/fpga.html
+
+
+
+## bugs:
+
+quartus: error while loading shared libraries: libpng12.so.0: cannot open shared object file: No such file or directory
+https://gist.github.com/remlapmot/2431ebf7b8ca07bfbfbbca97fd1a5cca
 
 
 
 
 ## Gathering PIN details from schematics.
+
+
+### JTAG (Joint Test Action Group)
+
+Temporary: Configuration lasts until power is cycled.
+
+
+### AS (Active Serial)
+Permanent (until reprogrammed): Configuration is stored in non-volatile memory and persists after power-off, loading automatically on startup. You can reprogram it when needed.
+
+
+
 
 **`push_button :`**
 
