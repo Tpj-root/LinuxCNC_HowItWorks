@@ -126,6 +126,10 @@ sudo chmod 666 /dev/bus/usb/001/009  # Replace with your actual device path
 
 https://trabucayre.github.io/openFPGALoader/compatibility/fpga.html
 
+https://www.intel.com/content/www/us/en/support/programmable/articles/000083054.html
+https://www.01signal.com/vendor-specific/intel/fpga-command-line-jtag/
+https://www.reddit.com/r/FPGA/comments/kb1jq4/quartus_hardware_setup_using_cli/
+https://www.intel.com/content/www/us/en/docs/programmable/683118/current/quartus-pgm-nios2-command-line-examples.html
 
 
 ## bugs:
@@ -148,6 +152,14 @@ Temporary: Configuration lasts until power is cycled.
 Permanent (until reprogrammed): Configuration is stored in non-volatile memory and persists after power-off, loading automatically on startup. You can reprogram it when needed.
 
 
+
+
+
+## try this in windows cmd
+
+sudo quartus_pgm -c 1 -m jtag -o "p;rio.sof"
+
+jtagconfig -n
 
 
 **`push_button :`**
