@@ -122,6 +122,79 @@ sudo chmod 666 /dev/bus/usb/001/009  # Replace with your actual device path
 ----------------------------
 
 
+Try Me: 2
+
+
+
+OpenFPGAloader
+
+
+https://github.com/trabucayre/openFPGALoader
+
+
+
+
+
+
+
+
+
+
+
+Try_MET: 3
+
+
+export PATH=$PATH:/home/sab/altera/13.0sp1/quartus/bin
+quartus_sh --convert -o svf --from your_project.sof --to your_project.svf
+
+
+
+
+
+
+
+
+sab@SH4D0W6:~/Desktop/TRY_BUILD/openFPGALoader/build$  sudo ./openFPGALoader -c usb-blaster --detect
+
+
+empty
+index 0:
+	idcode 0x20b10dd
+	manufacturer altera
+	family cyclone II
+	model  EP2C5
+	irlength 10
+
+
+
+Store temp only
+
+openFPGALoader -c usb-blaster -m rio.svf
+empty
+write to ram
+USB-BlasterI has a 24MHz fixed frequency
+end of SVF file
+
+
+
+
+
+Try new add -f
+
+openFPGALoader -c usb-blaster -m rio.svf -f
+
+
+# 	quartus_cpf -c --operation=p --freq=6MHz --voltage=3.3V $(PROJECT).sof $(PROJECT).svf
+
+export PATH=$PATH:/home/sab/altera/13.0sp1/quartus/bin
+quartus_cpf -c --operation=p --freq=6MHz --voltage=3.3V rio.sof rio.svf
+
+
+
+
+
+
+
 # not support Cyclone II
 
 https://trabucayre.github.io/openFPGALoader/compatibility/fpga.html
